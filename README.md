@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="22%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hi!+I'm+Jhon+Trujillo+but+you+can+call+me+Jeiti+(:+;Technical+Storyteller+%26+UX+Engineer;Crafting+worlds+between+logic+and+flow+%E2%9C%A9" width="75%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hi!+I'm+Jhon+Trujillo+but+you+can+call+me+Jeitī+(:+;Technical+Storyteller+%26+UX+Engineer;Crafting+worlds+between+logic+and+flow+%E2%9C%A9" width="75%" />
 
 <br>
 
@@ -52,9 +52,6 @@ When I'm not in the terminal, I'm likely:
 ---
 
 ### 📬 Let's Collaborate
-* **Portfolio:** [jotrportfolio.vercel.app](https://jotrportfolio.vercel.app/)
-* **LinkedIn:** [linkedin.com/in/jeiti](https://www.linkedin.com/in/jeiti)
-* **Location:** Santa Barbara, CA (Ready for the next adventure in 🇯🇵 or 🇮🇹)
 
 **「一緒に素晴らしいものを創りましょう！」**
 *(Let’s create something amazing together!)*
