@@ -1,9 +1,9 @@
 # Hi, I'm Jhon Trujillo 👋 (but you can call me Jeitī)
-### **Technical Storyteller | UX Engineer | MTM Graduate '26**
+### **Creative Developer | UX Engineer | Technical Storyteller**
 
-I build at the intersection of **Applied Mathematics** and **Immersive Environments**. My work is driven by a passion for technical storytelling—using systems, code, and math to craft narratives that resonate across cultures. 
+I am a builder who navigates diverse technical realms and frameworks. No matter the medium, my focus remains on storytelling through UI/UX design, striving to create experiences that feel as fluid as a yoga flow and as precise as a mathematical proof.
 
-I am a builder who navigates diverse technical realms and frameworks—from intelligent agentic systems and applied mathematics to immersive game design. No matter the medium, my focus remains on storytelling through UI/UX design, striving to create experiences that feel as fluid as a yoga flow and as precise as a mathematical proof.
+My work is driven by a passion for technical storytelling—using systems, code, and math to craft narratives that resonate across cultures. 
 
 ---
 
@@ -37,7 +37,7 @@ When I'm not in the terminal, I'm likely:
 ### 📬 Let's Collaborate
 * **Portfolio:** [jotrportfolio.vercel.app](https://jotrportfolio.vercel.app/)
 * **LinkedIn:** [linkedin.com/in/jeiti](https://www.linkedin.com/in/jeiti)
-* **Location:** Goleta, CA (Ready for the next adventure in 🇯🇵 or 🇮🇹)
+* **Location:** Santa Barbara, CA (Ready for the next adventure in 🇯🇵 or 🇮🇹)
 
 **「一緒に素晴らしいものを創りましょう！」**
 *(Let’s create something amazing together!)*
