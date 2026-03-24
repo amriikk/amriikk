@@ -6,17 +6,18 @@
 <br>
 
 <pre>
-    💼 Software Engineer • UX Engineer • UI Designer
-    💻 React • C++ • Python • Unreal Engine 5.7 • Blender 
+    💼 Software Engineer • Creative Developer • Digital Designer
+    💻 React • C++ • Python • Unreal Engine • Blender • Figma
     🎮 Anime • Games • Art • Running • Tennis • Soccer
-    🧘 Yoga 300hr RYT • EN • ES • IT • JA 🌎
+    🧘 Yoga Instructor • 300hr RYT Certified
+    🌎 EN • ES • IT • JA
 </pre>
 
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 <br><br>
 
-[![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jtrujillo)
+[![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeiti)
 [![](https://img.shields.io/badge/portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jotrportfolio.vercel.app/)
 </div>
 
