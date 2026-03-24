@@ -1,18 +1,17 @@
 # Hi, I'm Jhon Trujillo 👋 (but you can call me Jeitī)
-### **Creative Developer | UX Engineer | Technical Storyteller**
 
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="22%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hello!+I'm+Jhon+(Jeit%C4%AB)+Trujillo;Technical+Storyteller+%26+UX+Engineer;Crafting+worlds+between+logic+and+flow+%E2%9C%A9" width="75%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=A7A459&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hello!+I'm+Jhon+Trujillo+(but+you+can+call+me+Jeiti+;Technical+Storyteller+%26+UX+Engineer;Crafting+worlds+between+logic+and+flow+%E2%9C%A9" width="75%" />
 
 <br><br>
 
 <pre>
-    💼 MTM @ UCSB • UX Engineer • UI Designer
-    💻 Unreal Engine 5.7 • Blender • React • C++ • Python
-    📖 Applied Math • Technical Storytelling • Agentic Systems
-    🎮 Anime • Nintendo • Games • Art • Running • Tennis 
+    💼 Software Engineer • UX Engineer • UI Designer
+    💻 React • C++ • Python • Unreal Engine 5.7 • Blender 
+    📖 Creat • Technical Storytelling • Agentic Systems
+    🎮 Anime • Games • Art • Running • Tennis • Soccer
     🧘 Yoga 300hr RYT • EN • ES • IT • JA 🌎
 </pre>
 
