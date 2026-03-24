@@ -7,15 +7,6 @@ I am a builder who navigates diverse technical realms and frameworks—from inte
 
 ---
 
-### 🗺️ The Global Quest
-* 🎯 **The Goal:** Building the future of interactive entertainment at **Nintendo**, with a focus on bringing technical narratives to life in **Kyoto** or **Milan**.
-* 🗣️ **The Polyglot Stack:** I navigate the world in **English**, **Spanish**, **Italian**, and **Japanese**. I believe language is the ultimate interface.
-* 🎓 **Recent Milestones:** * **Master of Technology Management (MTM)** | UCSB Mehrabian College of Engineering.
-    * **Stanford Research Alum** | Applied linguistics and public speaking.
-    * **300hr RYT Yoga Instructor** | CorePower Yoga.
-
----
-
 ### 🚀 Currently Building
 * 🎮 **Narrative Environments:** Crafting immersive, anime-inspired worlds using **Unreal Engine 5.7** and **Blender**.
 * 🤖 **Agentic Models:** Leading UX/UI for **RazeMath** to make complex mathematics accessible through AI-driven tutoring.
