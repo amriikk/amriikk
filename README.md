@@ -8,7 +8,6 @@
 <pre>
     💼 Software Engineer • UX Engineer • UI Designer
     💻 React • C++ • Python • Unreal Engine 5.7 • Blender 
-    📖 Creat • Technical Storytelling • Agentic Systems
     🎮 Anime • Games • Art • Running • Tennis • Soccer
     🧘 Yoga 300hr RYT • EN • ES • IT • JA 🌎
 </pre>
