@@ -15,7 +15,6 @@
     🌎 EN • ES • IT • JA
 </pre>
 
-<br>
 
 [![](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeiti)
 [![](https://img.shields.io/badge/portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jotrportfolio.vercel.app/)
