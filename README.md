@@ -46,7 +46,6 @@
 ![React.js](https://img.shields.io/badge/Library-ReactJs-61DAFB?logo=react&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Framework-Next.js-informational?style=flat&logo=next.js&color=000000)
 ![Vue.js](https://img.shields.io/badge/Library-Vue.js-35495E?logo=vuedotjs&logoColor=4FC08D)
-![Laravel](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&color=FF2D20)
 
 #### **Cloud & Infrastructure**
 ![Vercel](https://img.shields.io/badge/Deployment-Vercel-informational?style=flat&logo=vercel&color=000000)
