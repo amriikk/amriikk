@@ -15,7 +15,7 @@
     🌎 EN • ES • IT • JA
 </pre>
 
-[![](https://img.shields.io/badge/portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jotrportfolio.vercel.app/)
+[![](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jotrio.com/)
 [![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jtrujillo)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/amriikk)
 [![](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amriikk@gmail.com)
