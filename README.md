@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="22%" align="right" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hi!+I'm+Jhon+Trujillo+but+you+can+call+me+Jeiti:);Crafting+worlds+between+logic+and+flow+%E2%9C%A9;Data+Storyteller+%26+Digital+Designer" width="75%" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=3500&pause=500&color=89CFF0&center=true&vCenter=true&multiline=true&repeat=true&random=false&width=1000&height=150&lines=Hi!+I'm+Jhon+Trujillo+but+you+can+call+me+Jeiti:);%E2%9C%A9Crafting+worlds+between+logic+and+flow+%E2%9C%A9;Data+Storyteller+%26+Digital+Designer" width="75%" />
 
 <br>
 <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
