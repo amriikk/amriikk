@@ -57,7 +57,7 @@
 ### 🎨 Beyond the Code
 When I'm not in the terminal, I'm likely:
 * **Practicing Mindfulness:** Teaching or practicing yoga to maintain a "zen" dev environment.
-* **Creating Art:** Painting and drawing, heavily inspired by **anime** aesthetics and world-building.
+* **Creating Art:** Painting and drawing, heavily inspired by **anime** aesthetics & world-building.
 * **Exploring:** Running the trails of Goleta or playing a match of tennis or soccer.
 * **Solving:** Tackling complex puzzles and deep-diving into video games.
 
