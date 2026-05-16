@@ -63,7 +63,7 @@ When I'm not in the terminal, I'm likely:
 
 ---
 
-### 📬 Let's Collaborate
+### 📬 Let's Collaborate!
 
 **「一緒に素晴らしいものを創りましょう！」**
 *(Let’s create something amazing together!)*
