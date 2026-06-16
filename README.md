@@ -12,7 +12,7 @@
     💻 React.js • Python • C++ • Java • Blender • Figma • Unreal
     🎮 Anime • Games • Art • Running • Tennis • Soccer
     🧘 Yoga Instructor • 300hr RYT Certified
-    🌎 EN • ES • IT • JA • FR
+    🌎 EN • ES • IT • JA • FR • GR
 </pre>
 
 [![](https://img.shields.io/badge/Portfolio-2ea44f?style=for-the-badge&logo=vercel&logoColor=white)](https://jotrio.com/)
