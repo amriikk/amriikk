@@ -9,7 +9,7 @@
 
 <pre>
     💼 Software Engineer • Creative Developer • Digital Designer
-    💻 React.js • Python • C++ • Java • Blender • Figma • Unreal
+    💻 React • Python • C++ • Java • Blender • Figma • Unreal
     🎮 Anime • Games • Art • Running • Tennis • Soccer
     🧘 Yoga Instructor • 300hr RYT Certified
     🌎 EN • ES • IT • JA • FR • GR
