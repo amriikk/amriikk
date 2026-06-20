@@ -24,7 +24,7 @@
 ---
 
 ### 🚀 Currently Building
-* 🎮 **Narrative Environments:** Crafting immersive, anime-inspired worlds using **Unreal Engine 5.7** and **Blender**.
+* 🎮 **Narrative Environments:** Crafting immersive, anime-inspired worlds using **Unreal Engine 5.7** & **Blender**.
 * 🤖 **Agentic Models:** Leading UX/UI for **Telum** to make complex mathematics accessible through AI-driven tutoring.
 * 🔬 **AI Strategy:** Analyzing automated workflows for the **California NanoSystems Institute (CNSI) x ExFAB Biofoundry**.
 
