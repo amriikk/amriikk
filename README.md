@@ -25,7 +25,7 @@
 
 ### 🚀 Currently Building
 * 🎮 **Narrative Environments:** Crafting immersive, anime-inspired worlds using **Unreal Engine 5.7** & **Blender**.
-* 🔬 **AI Strategy:** Analyzing automated Ai workflows for the **California NanoSystems Institute (CNSI) x ExFAB Biofoundry**.
+* 🔬 **AI Strategy:** Analyzing automated Ai workflows for the **California NanoSystems Institute (CNSI) x ExFAB Biofoundry (UCSB)**.
 
 ---
 
