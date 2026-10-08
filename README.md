@@ -31,7 +31,7 @@
 
 ### 🛠️ Technical Grimoire
 
-#### **Game Engine & Math Mastery**
+#### **Game Engine & Mathematics**
 ![Unreal Engine](https://img.shields.io/badge/Engine-Unreal_Engine_5.7-313131?style=flat&logo=unrealengine&logoColor=white)
 ![Blender](https://img.shields.io/badge/Design-Blender-E87D0D?style=flat&logo=blender&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/Math-MATLAB-ED1C24?style=flat&logo=mathworks&logoColor=white)
