@@ -9,7 +9,7 @@
 
 <pre>
     💼 Full-Stack AI Engineer • Software Engineer • Product Manager
-    💻 TypeScript • React • React Native • Python • C++ • Java • Unreal
+    💻 TypeScript • React Native • Python • C++ • Java • Unreal
     🎓 MS Technology Management, UC Santa Barbara (June 2026)
     🧘 Yoga teacher • 350+ training hours (CorePower Yoga)
     🎮 Anime • Games • Art • Running • Tennis • Soccer
@@ -27,9 +27,9 @@
 
 ### 👋 About
 
-I'm a full-stack engineer who builds products with AI inside them, from the interface down to the API call. I'm looking for a full-time **Full-Stack AI Engineer** role (Software Engineer and Product Manager roles too), and I'm especially drawn to teams that make games and consumer products.
+I'm a full-stack engineer who builds products with AI inside them, from the interface down to the API call. I'm looking for a full-time **Full-Stack AI Engineer** role (Software Engineer and Product Manager roles too), and I'm especially drawn to teams that make games & consumer products.
 
-My background spans full-stack development, front-end and UX design, and technology strategy, with time at AppDynamics (Cisco), RazeMath/Telum and UCSB. I also taught yoga, which shapes how I think about calm, usable software.
+My background spans full-stack development, front-end and UX design & technology strategy, with time at Cisco, RazeMath and UCSB. I also taught yoga, which shapes how I think about calm, usable software.
 
 ---
 
@@ -79,7 +79,7 @@ My background spans full-stack development, front-end and UX design, and technol
 ---
 
 ### 🎨 Beyond the Code
-* **Practicing mindfulness:** teaching and practicing yoga keeps my dev environment "zen" :)
+* **Practicing mindfulness:** teaching + practicing yoga keeps my dev environment "zen" :)
 * **Creating art:** painting and drawing, heavily inspired by anime and world-building.
 * **Exploring:** running the trails of Santa Barbara and traveling up and down the west coast.
 * **Solving:** complex puzzles and deep dives into RPGs.
