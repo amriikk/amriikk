@@ -43,7 +43,6 @@ My background spans full-stack development, front-end and UX design & technology
 | 🌐 **[jotrio.com](https://github.com/amriikk/jotrio-1.1)** | My portfolio and the hub for everything above. | React, Vite, Tailwind, Vercel |
 
 **Also in progress**
-* 🔬 **AI strategy:** analyzing automated AI workflows for the California NanoSystems Institute (CNSI) × ExFAB Biofoundry at UCSB.
 * 🎮 **Narrative environments:** anime-inspired worlds in Unreal Engine 5.7 and Blender.
 
 ---
