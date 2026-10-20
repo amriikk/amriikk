@@ -27,8 +27,7 @@
 
 ### 👋 About
 
-I'm a full-stack engineer who builds products with AI inside them, from the interface down to the API call. I'm looking for a full-time **Full-Stack AI Engineer** role (Software Engineer and Product Manager roles too), and I'm especially drawn to teams that make games & consumer products.
-
+I'm a full-stack engineer who builds products with AI inside them, from the interface down to the API call. I'm looking for a full-time **Full-Stack AI Engineer** role (Software Engineer and Product Manager roles too).
 My background spans full-stack development, front-end and UX design & technology strategy, with time at Cisco, RazeMath and UCSB. I also taught yoga, which shapes how I think about calm, usable software.
 
 ---
@@ -39,7 +38,7 @@ My background spans full-stack development, front-end and UX design & technology
 |---|---|---|
 | 🪷 **[Vajra Warrior](https://github.com/amriikk/vajra-warrior)** | Free iOS app for yoga practitioners: habit tracker (sleep, water, mood, energy), class journal, and an AI weekly reflection that finds patterns across both. Data stays on the phone, and nothing goes to the AI without a preview and a tap to send. *In active development.* | Expo, React Native, TypeScript, Apple Health, Claude API |
 | ✨ **Aster** | AI tarot journal: ask a question, draw cards, get a reading, reflect. *Ask. Draw. Reflect.* *In active development.* | AI, journaling UX |
-| ✍️ **[InnerOS](https://jotrio.com/inneros)** | Bilingual (EN/IT) writing series on mindfulness as an operating system, 40 posts, Sep 29 to Dec 4, 2026. | Substack, React |
+| ✍️ **[InnerOS](https://jotrio.com/inneros)** | Bilingual (EN/IT) writing series on mindfulness as an operating system. | Substack, React |
 | 🌐 **[jotrio.com](https://github.com/amriikk/jotrio-1.1)** | My portfolio and the hub for everything above. | React, Vite, Tailwind, Vercel |
 
 **Also in progress**
