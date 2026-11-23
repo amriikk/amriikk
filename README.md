@@ -37,7 +37,7 @@ My background spans full-stack development, front-end and UX design & technology
 | Project | What it is | Stack |
 |---|---|---|
 | 🪷 **[Vajra Warrior](https://github.com/amriikk/vajra-warrior)** | Free iOS app for yoga practitioners: habit tracker (sleep, water, mood, energy), class journal, and an AI weekly reflection that finds patterns across both. Data stays on the phone, and nothing goes to the AI without a preview and a tap to send. *In active development.* | Expo, React Native, TypeScript, Apple Health, Claude API |
-| ✨ **Aster** | AI tarot journal: ask a question, draw cards, get a reading, reflect. *Ask. Draw. Reflect.* *In active development.* | AI, journaling UX |
+| ✨ **[Aster](https://ask-aster.vercel.app)** | AI tarot journal: ask a question, draw cards, get a reading, reflect. *Ask. Draw. Reflect.* *In active development.* | AI, journaling UX |
 | ✍️ **[InnerOS](https://jotrio.com/inneros)** | Bilingual (EN/IT) writing series on mindfulness as an operating system. | Substack, React |
 | 🌐 **[jotrio.com](https://github.com/amriikk/jotrio-1.1)** | My portfolio and the hub for everything above. | React, Vite, Tailwind, Vercel |
 
